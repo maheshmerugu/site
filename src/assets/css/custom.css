@@ -45,3 +45,66 @@
 
     font-size: 23px;
 }
+.designIcon{
+    height: 80px;
+    width: 80px;
+}
+
+.ecommerceicon{
+    height: 80px;
+    width: 80px;
+}
+
+.webicon{
+    height: 80px;
+    width: 80px;
+}
+
+.serviceCard{
+    margin: 5px 5px 5px 5px;
+    height: 22rem;
+    padding: 60px 30px 60px 30px;
+    box-shadow: 0 0 8px 0 rgba(4, 45, 105, 0.2);
+
+}
+
+.serviceCard:hover{
+    margin: 5px 5px 5px 5px;
+    height: 22rem;
+    padding: 60px 30px 60px 30px;
+    box-shadow: 0 0 20px 0 rgba(4, 45, 105, 0.2);
+
+}
+
+.serviceName{
+    color:rgb(11, 3, 43);
+    margin-top: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+.servicedescription{
+    color:rgb(103, 22, 91);
+    margin-top: 1rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+.ServiceMainTitle{
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    color:rgb(rgb(16, 3, 34), green, blue);
+    font-size: 28px;
+    font-weight: 700;
+}
+.bottom{
+    background: #051b35 none repeat scroll 0 0;
+    height: 3px;
+    width: 100px;
+    margin: -1.9rem auto 0;
+    margin-bottom: 2rem;
+}
